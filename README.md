@@ -17,5 +17,5 @@ This is a project from the Getting and Cleaning Data Course - Coursera
 Goal | Item | Link to Item
 --- | --- | --- 
 Analysis R Script | run_analysis.R | [R Script](https://github.com/ricardogiuliani/Getting-and-Cleaning-Data/blob/master/run_analysis.R)
-Tidy data set | tidy_dataset.txt | [Tidy Data Set]()
-Codebook | code_book.md | [Codebook]()
+Tidy data set | tidy_dataset.txt | [Tidy Data Set](https://github.com/ricardogiuliani/Getting-and-Cleaning-Data/blob/master/tidy_dataset.txt)
+Codebook | code_book.md | [Codebook](https://github.com/ricardogiuliani/Getting-and-Cleaning-Data/blob/master/CodeBook.md)
